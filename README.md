@@ -1,11 +1,11 @@
 # 📱 Software Development 3 – Flutter Activities
-### 👨‍💻 Author: Alec Parantar  
+### 👨‍💻 Author: Lorenzo Alec B. Parantar  
 ### 📘 Course: Software Development 3  
 ### 🧠 Framework: Flutter (Dart)  
 ### 🧩 IDE: VS Code  
 
 This repository contains all **10 Flutter activities** completed for the Software Development 3 course.  
-Each activity is organized in its own folder, with proper version control via Git branches.
+Each activity is organized in its own folder, with proper version control via Git.
 
 ---
 
